@@ -1,0 +1,10 @@
+Exit code: 0
+Wall time: 0.5 seconds
+Output:
+interface:
+  display_name: "内在困境支持"
+  short_description: "用温暖、循证的一问一答梳理情绪、想法、需要与行动"
+  default_prompt: "请使用 $support-emotional-wellbeing，陪我用温暖的一问一答梳理现在的困扰。"
+policy:
+  allow_implicit_invocation: true
+
