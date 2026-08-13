@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.6 seconds
-Output:
 ---
 name: support-emotional-wellbeing
 description: Provide warm, non-diagnostic psychological support through one-question-at-a-time Socratic dialogue. Use when someone wants to understand self-doubt, anxiety, shame, low mood, overwhelm, loneliness, relationship tension, people-pleasing, indecision, harsh self-criticism, or a confusing inner struggle; when they ask to vent, sort out feelings, understand why they react this way, or decide what to do next. Also use to draft or review psychologically supportive conversations. Do not use as a substitute for diagnosis, psychotherapy, medication advice, or emergency care.
