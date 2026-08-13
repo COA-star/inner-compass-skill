@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.5 seconds
-Output:
 # 书库知识综合与取舍
 
 本文件记录 Skill 的知识来源和转化原则，不替代原书，也不授权复制受版权保护内容。
