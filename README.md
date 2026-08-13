@@ -82,6 +82,16 @@ support-emotional-wellbeing/
 请用这个 Skill 检查下面这段心理支持对话有没有说教、诊断或忽视安全的问题。
 ```
 
+## 用于其他 AI 模型
+
+`prompts/` 目录提供不依赖 Codex 和原始书库的通用提示词，可用于豆包、DeepSeek、Claude/Claude Code、ChatGPT、通义、Kimi、Gemini 和本地文字模型：
+
+- `prompts/inner-compass-universal-prompt.zh-CN.md`：完整版，适合系统提示词或智能体 Instructions。
+- `prompts/inner-compass-compact-prompt.zh-CN.md`：短版，适合上下文较小或只能设置简短角色描述的平台。
+- `prompts/README.md`：放置位置、参数建议、测试用例与产品化提醒。
+
+使用同一提示词不代表不同模型会产生完全一致的行为。正式应用前，应分别测试普通困扰、现实伤害、自伤风险和精神状态异常等场景。
+
 ## 文件说明
 
 - `SKILL.md`：触发条件、核心行为、对话节奏和禁止事项。
@@ -100,5 +110,4 @@ support-emotional-wellbeing/
 ## 项目状态
 
 当前版本为第一版可用原型，已经通过 Codex Skill 结构校验。它仍需要在专业审核、危机资源本地化、评估用例和实际产品集成方面继续迭代。
-
 
