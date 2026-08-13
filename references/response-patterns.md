@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.5 seconds
-Output:
 # 回应模式与示例
 
 以下示例展示节奏，不是固定台词。每次只保留一个主要问题。
