@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.5 seconds
-Output:
 # 内在困境支持 Skill
 
 一个面向日常心理困扰的 Codex Skill，通过温暖、非诊断式的苏格拉底问答，帮助使用者逐步看清自己的处境、情绪、想法、需要与下一步行动。
